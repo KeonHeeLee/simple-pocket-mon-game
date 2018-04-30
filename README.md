@@ -12,6 +12,6 @@ $ pocketmon.exe
 ```
 
 
-## Finite Automata Model
+## Finite Automata(FA) Model
 
 TODO
