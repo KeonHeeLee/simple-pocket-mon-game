@@ -1,3 +1,9 @@
+/*
+* April 30, 2018 - Made by KeonHeeLee :: https://github.com/KeonHeeLee/simple-pocket-mon-game
+* I want to refer this repositoy to understand FA (Finite Automata).
+* Thanks to remain this comment if you would use or refer this repository's source code.
+*/
+
 #include "Game.h"
 
 Game::Game() {
@@ -22,12 +28,14 @@ void Game::run_skill(char *user_name, char *skill_name){
 }
 
 void Game::print_game_over(){
+	cout << endl;
 	cout << "**************************" << endl;
 	cout << "**       GAME OVER      **" << endl;
 	cout << "**************************" << endl;
 }
 
 void Game::print_victory(){
+	cout << endl;
 	cout << "**************************" << endl;
 	cout << "**        VICTORY       **" << endl;
 	cout << "**************************" << endl;
