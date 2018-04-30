@@ -6,8 +6,8 @@ This repository is made for compiler lecture's report, but I want to refer this 
 
 ## How to use
 
-In window, input the below command. <br>
-Or download [this file](https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/pocketmon.exe).
+- In window, input the below command. <br>
+- Or download [this file](https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/pocketmon.exe).
 ```
 $ pocketmon.exe
 ```
