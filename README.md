@@ -13,6 +13,11 @@ $ pocketmon.exe
 ```
 
 
+### Note!
+
+- This repo seperate [cpp files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/src) and [header files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/include).
+- If you want to compile this program, in visual studio(window), you must collect this files in one directory.
+
 ## Finite Automata(FA) Model
 
 TODO
