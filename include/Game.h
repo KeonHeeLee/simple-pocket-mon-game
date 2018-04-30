@@ -1,3 +1,9 @@
+/*
+* April 30, 2018 - Made by KeonHeeLee :: https://github.com/KeonHeeLee/simple-pocket-mon-game
+* I want to refer this repositoy to understand FA (Finite Automata).
+* Thanks to remain this comment if you would use or refer this repository's source code.
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
@@ -11,8 +17,8 @@ private:
 	PocketMon myPocketMon;
 	PocketMon com;
 
-	int pika_01_cnt = 3; // ë°±ë§Œë³¼íŠ¸ ì¹´ìš´í„°
-	int char_01_cnt = 3; // ë¶ˆê½ƒ ì„¸ë¡€ ì¹´ìš´í„°
+	int pika_01_cnt = 3; // ¹é¸¸º¼Æ® Ä«¿îÅÍ
+	int char_01_cnt = 3; // ºÒ²É ¼¼·Ê Ä«¿îÅÍ
 
 	int originalComHP;
 	int tempComHP;
