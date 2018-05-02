@@ -18,6 +18,25 @@ $ pocketmon.exe
 - This repo seperate [cpp files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/src) and [header files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/include).
 - If you want to compile this program, in visual studio(window), you must collect this files in one directory.
 
+
 ## Finite Automata(FA) Model
 
-TODO
+- NFA (Non-deterministric Finite Automata) Model
+<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/02.PNG">
+
+- DFA (Deterministric Finite Automata) Model
+<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/03.PNG">
+
+
+## Demo Screenshot
+
+<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/06.PNG">
+<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/07.PNG">
+
+- demo video : https://www.youtube.com/watch?v=v5oMRYZenIg
+
+
+## Result
+
+- FA(Finite Automata) is very useful to develop NPC in games.
+- This is only simple game example, but FA model's size is likely to be very big in big-sized game.
